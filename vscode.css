@@ -1,0 +1,37 @@
+/* VS Minimalism */
+
+.sidebar {
+    transform: scale(0.98);
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.title-label {
+    width: 100%;
+    text-align: center;
+}
+
+.monaco-icon-label-container {
+    width: 100%;
+}
+
+.editor-group-container {
+    transform: scale(0.98);
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.title.breadcrumbs.show-file-icons {
+    border-radius: 8px 8px 0 0;
+}
+
+.monaco-pane-view .pane {
+    border-radius: 8px;
+    transform: scale(0.98);
+}
+
+.part.panel.basepanel.bottom.pane-composite-part {
+    border-radius: 8px;
+    transform: scale(0.98);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
