@@ -6,7 +6,7 @@ A minimal CSS file to customize your VSCode. *Used with Custom CSS and JS extens
 
 ## Steps
 
-1. Download [Vibrancy Continued](https://marketplace.visualstudio.com/items?itemName=alexanderbast.vscode-vibrancy) from the VSCode Extension Store.
+1. Download [Vibrancy Continued] from the VSCode Extension Store.
 
 2. Use these extension settings for Vibrancy Continued (For the theme I'm using GitHub's Default Dark):
 
@@ -38,7 +38,7 @@ A minimal CSS file to customize your VSCode. *Used with Custom CSS and JS extens
     "workbench.activityBar.location": "hidden"
     ```
 
-4. Install [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) from the VSCode Extension Store.
+4. Install [Custom CSS and JS Loader] from the VSCode Extension Store.
 
 5. Create a new CSS file somewhere, and enter the path in your `settings.json` like this:
 
