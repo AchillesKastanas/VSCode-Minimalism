@@ -16,13 +16,14 @@
 }
 
 .editor-group-container {
-    transform: scale(0.98);
-    border-radius: 8px;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 8px 0 0 8px;
+    overflow: hidden;
+    margin-left: 5px;
+    margin-top: 8px;
 }
 
 .title.breadcrumbs.show-file-icons {
-    border-radius: 8px 8px 0 0;
+    border-radius: 8px 0 0 0;
 }
 
 .monaco-pane-view .pane {
@@ -34,4 +35,10 @@
     border-radius: 8px;
     transform: scale(0.98);
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.monaco-editor .suggest-widget {
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 0 0 15px 15px rgba(0, 0, 0, 0.1);
+    padding: 10px;
 }
