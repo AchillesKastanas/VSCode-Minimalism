@@ -2,7 +2,7 @@
 
 A minimal CSS file to customize your VSCode. *Used with Custom CSS and JS extension*
 
-![Minimal VSCode](https://github.com/AchillesKastanas/VSCode-Minimalism/assets/47496934/d7026602-9fa2-4401-ab88-ffae1ebd6f3d)
+
 
 ## Steps
 
