@@ -1,5 +1,7 @@
 # VSCode-Minimalism
 
+!! Currently Vibrancy Continued appears to only work for MacOs :(
+
 A minimal CSS file to customize your VSCode. *Used with Custom CSS and JS extension*
 
 <img width="1512" alt="image" src="https://github.com/AchillesKastanas/VSCode-Minimalism/assets/47496934/dc88cd5f-f991-4660-94b0-a9bb405d3d94">
